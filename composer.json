@@ -1,0 +1,21 @@
+{
+    "name": "ride/cli-import",
+    "description": "Import command for the Ride CLI",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        }
+    ],
+    "require": {
+        "ride/lib-cli": ">=0.1.0",
+        "ride/lib-import": ">=0.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ride\\cli\\command\\import\\": ["src/"]
+        }
+    }
+}
