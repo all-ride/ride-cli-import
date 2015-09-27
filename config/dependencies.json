@@ -1,9 +1,0 @@
-{
-    "dependencies": [
-        {
-            "interfaces": "ride\\library\\cli\\command\\Command",
-            "class": "ride\\cli\\command\\import\\ImportCommand",
-            "id": "import"
-        }
-    ]
-}
