@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+	"ride/cli": ">=0.5.0",
         "ride/lib-cli": ">=0.1.0",
         "ride/lib-import": ">=0.1.0"
     },

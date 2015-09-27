@@ -1,0 +1,9 @@
+{
+    "commands": [
+        {
+            "name": "import",
+            "aliases": "i",
+            "class": "ride\\cli\\command\\import\\ImportCommand"
+        }
+    ]
+}
